@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://creeperguy1245.github.io/csb-zhmmqs/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://creeperguy1245.github.io/csb-zhmmqs/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://creeperguy1245.github.io/csb-zhmmqs/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://creeperguy1245.github.io/csb-zhmmqs/static/js/runtime-main.17f140e8.js",
+    "runtime-main.js.map": "https://creeperguy1245.github.io/csb-zhmmqs/static/js/runtime-main.17f140e8.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://creeperguy1245.github.io/csb-zhmmqs/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://creeperguy1245.github.io/csb-zhmmqs/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://creeperguy1245.github.io/csb-zhmmqs/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://creeperguy1245.github.io/csb-zhmmqs/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://creeperguy1245.github.io/csb-zhmmqs/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17f140e8.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
